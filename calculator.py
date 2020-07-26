@@ -1,4 +1,4 @@
-def soma(a, b):
+def adds(a, b):
     return a + b
 
 def subtrai(a, b):
