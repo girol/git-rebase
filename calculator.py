@@ -4,7 +4,7 @@ def soma(a, b):
 def subtrai(a, b):
     return a - b
 
-def mult(a, b):
+def multiplica(a, b):
     return a * b
 
 def div(a, b):
