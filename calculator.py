@@ -1,11 +1,11 @@
-def soma(a, b):
+def adds(a, b):
     return a + b
 
-def subtrai(a, b):
+def subtracts(a, b):
     return a - b
 
-def multiplica(a, b):
+def multiply(a, b):
     return a * b
 
-def divide(a, b):
+def divides(a, b):
     return a / b
